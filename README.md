@@ -15,7 +15,13 @@ This project is a Video Conferencing and Chat application built to achieve effor
 <img src="/screenshots/ChatPage.png" alt="drawing" width="750"/>
 
 
+## Sharing file 
 
+<img src="/screenshots/FileSharing.png" alt="drawing" width="750"/>
+
+## Screen Sharing
+
+<img src="/screenshots/ScreenShare.png" alt="drawing" width="750"/>
 
 
 ## Features
